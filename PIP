@@ -1,0 +1,5 @@
+v CMD: 
+pip install "jméno balíčku"     #nainstaluje balíček 
+pip list        #ukáže všechny stáhlé balíčky
+pip install --upgrade "jméno balíčku"       #upgradne balíček do nejnovější verze
+pip uninstall "jméno balíčku"       #odinstaluje balíček
